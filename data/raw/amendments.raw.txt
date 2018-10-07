@@ -1,0 +1,20 @@
+                            <a name = "amendments">AMENDMENT RECORDS FOR TRADE</a>
+
+-------------------------------------------------------------------------------
+    C  = Closing Auction Direct/Non-direct D  = Odd Lot Direct/Non-direct
+    M  = Manual/Special Lot Non-direct     P  = Pre-opening Direct/Non-direct
+    U  = Auction Direct                    X  = Manual/Special Lot Direct
+    Y  = Automatch Direct
+   < > = Auction trading session          [ ] = Continuous trading session
+    /  = Morning close and extended morning open
+   //  = Extended morning close and afternoon open
+-------------------------------------------------------------------------------
+
+CODE  NAME OF STOCK    CORRECTED TRADES CONCLUDED ON 28/09/18
+
+  274 C BILLION RES    < >[ ]/-//[ D30,000-0.023 ]< >
+
+
+NET OF ALL REJECTED AND CORRECTED SALES  28/09/18 :  HK$                  690
+
+-------------------------------------------------------------------------------

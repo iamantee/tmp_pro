@@ -1,0 +1,616 @@
+                  <a name = "adj_short">PREVIOUS DAY'S ADJUSTED SHORT SELLING TURNOVER</a>
+
+After taking into account adjustments reported from Exchange Participant(s), the total
+short selling turnover data on the following securities for 28/09/2018 are as follows:
+
+                         Total Short Selling Turnover
+  CODE  NAME OF STOCK       (SH)           ($)
+
+      1 CKH HOLDINGS         525,500    47,472,700
+      2 CLP HOLDINGS         399,500    36,440,250
+      3 HK &amp; CHINA GAS     3,557,000    55,253,280
+      4 WHARF HOLDINGS       941,000    20,121,000
+      5 HSBC HOLDINGS      2,741,200   190,441,260
+      6 POWER ASSETS         467,500    25,659,800
+      8 PCCW               1,782,000     8,081,420
+     10 HANG LUNG GROUP      505,000    10,435,900
+     11 HANG SENG BANK       181,500    38,666,440
+     12 HENDERSON LAND     1,483,000    58,167,800
+     14 HYSAN DEV             36,000     1,437,700
+     16 SHK PPT            1,301,500   148,447,550
+     17 NEW WORLD DEV        221,000     2,378,020
+     19 SWIRE PACIFIC A      150,500    12,927,150
+     20 WHEELOCK             312,000    14,659,350
+     23 BANK OF E ASIA       165,600     4,833,230
+     27 GALAXY ENT         6,816,000   342,059,050
+     31 CHINA AEROSPACE       16,000        10,080
+     35 FE CONSORT INTL       26,000       107,690
+     41 GREAT EAGLE H         11,000       432,450
+     45 HK&amp;S HOTELS           10,500       115,980
+     54 HOPEWELL HOLD         45,500     1,177,450
+     62 TRANSPORT INT'L          800        16,400
+     66 MTR CORPORATION    1,144,500    47,139,950
+     69 SHANGRI-LA ASIA      132,000     1,532,400
+     78 REGAL INT'L           22,000        94,980
+     81 CH OVS G OCEANS       23,000        57,520
+     83 SINO LAND          4,076,000    54,644,640
+     95 LVGEM CHINA            2,000         4,900
+    101 HANG LUNG PPT        847,000    12,892,980
+    107 SICHUAN EXPRESS       54,000       132,080
+    116 CHOW SANG SANG         3,000        46,020
+    119 POLY PROPERTY        486,000     1,345,470
+    123 YUEXIU PROPERTY    1,464,000     2,055,700
+    127 CHINESE EST H        103,000       937,665
+    135 KUNLUN ENERGY      9,534,000    86,813,600
+    136 HENGTEN NET           28,000         8,260
+    142 FIRST PACIFIC      1,040,000     4,033,620
+    144 CHINA MER PORT     1,440,000    21,622,480
+    148 KINGBOARD HLDG       132,000     3,369,250
+    151 WANT WANT CHINA    1,047,000     6,904,110
+    152 SHENZHEN INT'L       281,500     4,572,650
+    161 AVIC IHL               2,000         8,420
+    165 CHINA EB LTD         230,000     3,213,800
+    168 TSINGTAO BREW        384,000    14,095,100
+    169 WANDA HOTEL DEV        2,000         1,440
+    171 SILVER GRANT         298,000       523,000
+    173 K. WAH INT'L         285,000     1,066,390
+    175 GEELY AUTO         7,430,000   115,840,100
+    177 JIANGSU EXPRESS       90,000       907,600
+    178 SA SA INT'L        1,392,000     6,001,480
+    179 JOHNSON ELEC H        29,000       640,100
+    189 DONGYUE GROUP        224,000     1,202,290
+    194 LIU CHONG HING         2,000        23,560
+    196 HONGHUA GROUP        205,000       136,730
+    200 MELCO INT'L DEV      607,000     9,521,840
+    207 JOY CITY PPT          18,000        17,280
+    215 HUTCHTEL HK          400,000     1,228,880
+    220 U-PRESID CHINA       244,000     2,039,150
+    232 AVIC INT'L            98,000        21,980
+    235 CHINA STRATEGIC       60,000         4,255
+    241 ALI HEALTH         1,188,000     9,097,460
+    242 SHUN TAK HOLD        366,000     1,003,000
+    245 CN MINSHENG FIN       20,000         6,300
+    256 CITYCHAMP             44,000        73,800
+    257 CHINA EB INT'L     2,529,000    17,045,940
+    267 CITIC              2,478,000    28,857,360
+    268 KINGDEE INT'L      1,944,000    16,626,520
+    270 GUANGDONG INV        530,000     7,349,080
+    272 SHUI ON LAND         820,500     1,494,155
+    273 MASON GP HOLD        840,000       120,540
+    285 BYD ELECTRONIC       431,500     4,981,860
+    288 WH GROUP             871,000     4,807,785
+    291 CHINA RES BEER       972,000    30,676,400
+    293 CATHAY PAC AIR     1,208,000    14,274,680
+    297 SINOFERT              80,000        80,000
+    303 VTECH HOLDINGS         6,000       548,160
+    308 CHINA TRAVEL HK      236,000       600,080
+    315 SMARTONE TELE         33,500       348,090
+    317 COMEC                112,000       729,140
+    321 TEXWINCA HOLD         42,000       130,540
+    322 TINGYI               360,000     5,207,960
+    323 MAANSHAN IRON      1,850,000     7,717,860
+    330 ESPRIT HOLDINGS      591,400     1,122,882
+    332 YUANHENG GAS          80,000        59,160
+    336 HUABAO INTL          339,000     1,413,650
+    337 GREENLAND HK         242,000       579,160
+    338 SHANGHAI PECHEM      968,000     4,613,620
+    341 CAFE DE CORAL H        8,000       144,680
+    342 NEWOCEAN ENERGY       52,000       126,640
+    345 VITASOY INT'L        212,000     5,629,300
+    347 ANGANG STEEL       7,872,000    55,019,000
+    354 CHINASOFT INT'L    2,030,000    10,507,280
+    358 JIANGXI COPPER     1,546,000    14,053,740
+    363 SHANGHAI IND H        16,000       278,080
+    368 SINOTRANS SHIP     1,746,000     4,516,295
+    371 BJ ENT WATER       3,794,000    15,817,960
+    383 CHINA MED&amp;HCARE       10,000         2,650
+    384 CHINA GAS HOLD     2,218,000    49,085,340
+    386 SINOPEC CORP      22,266,000   174,254,900
+    388 HKEX                 391,600    88,060,580
+    390 CHINA RAILWAY      3,063,000    23,711,300
+    392 BEIJING ENT          867,500    37,981,475
+    400 COGOBUY               78,000       228,900
+    405 YUEXIU REIT           68,000       348,320
+    410 SOHO CHINA           409,000     1,253,190
+    412 CHINA SDHS FIN     1,818,000       462,660
+    425 MINTH GROUP        1,032,000    32,892,600
+    433 NORTH MINING         190,000         7,280
+    435 SUNLIGHT REIT          4,000        21,040
+    439 KUANGCHI              68,000        45,780
+    440 DAH SING              25,200     1,263,780
+    451 GCL NEWENERGY        498,000       142,520
+    460 SIHUAN PHARM       1,521,000     2,426,650
+    467 UNITEDENERGY GP        4,000         6,460
+    468 GAPACK                29,000       143,920
+    480 HKR INT'L              5,600        21,480
+    488 LAI SUN DEV            2,400        27,564
+    489 DONGFENG GROUP     1,908,000    15,354,920
+    493 GOME RETAIL        1,275,000     1,018,600
+    494 LI &amp; FUNG         18,300,000    31,421,860
+    496 KASEN                124,000       419,640
+    506 CHINA FOODS           92,000       366,640
+    508 DINGYI GP INV        415,000       223,900
+    511 TVB                   11,900       267,360
+    512 CHINAGRANDPHARM       56,000       283,200
+    517 COSCO SHIP INTL        2,000         5,700
+    520 XIABUXIABU           708,500     8,266,060
+    522 ASM PACIFIC          440,600    35,061,005
+    525 GUANGSHEN RAIL       194,000       672,820
+    526 LISI GP HOLD          44,000        45,780
+    535 GEMDALE PPT          332,000       236,440
+    538 AJISEN (CHINA)         7,000        22,720
+    546 FUFENG GROUP          86,000       327,870
+    547 DIGITAL DOMAIN       230,000        24,610
+    548 SHENZHENEXPRESS      136,000     1,072,380
+    551 YUE YUEN IND         322,000     6,961,025
+    552 CHINACOMSERVICE    3,674,000    26,317,220
+    563 SH IND URBAN         152,000       201,400
+    570 TRAD CHI MED         482,000     2,555,360
+    576 ZHEJIANGEXPRESS    3,098,000    20,176,720
+    579 JNCEC                174,000       273,260
+    580 SUN.KING ELEC         40,000        53,600
+    581 CHINA ORIENTAL       456,000     2,883,500
+    586 CONCH VENTURE        939,500    25,569,025
+    588 BEIJING N STAR        12,000        28,100
+    590 LUK FOOK HOLD          2,000        55,000
+    598 SINOTRANS             21,000        68,260
+    603 CHINA OIL &amp; GAS      140,000        81,200
+    604 SHENZHEN INVEST    2,034,000     5,070,500
+    606 CHINA AGRI            82,000       247,540
+    607 FULLSHARE         28,487,500   100,190,025
+    622 ENERCHINA HOLD         6,000         2,490
+    636 KERRY LOG NET        184,500     2,380,320
+    639 SHOUGANG RES          30,000        52,120
+    656 FOSUN INTL           801,000    11,040,540
+    658 C TRANSMISSION     2,127,000    17,663,040
+    659 NWS HOLDINGS         257,000     3,950,860
+    665 HAITONG INT'L        789,000     2,144,810
+    669 TECHTRONIC IND        93,500     4,680,800
+    670 CHINA EAST AIR       210,000     1,056,420
+    683 KERRY PPT            640,000    17,112,075
+    686 PANDA GREEN           54,000        18,660
+    687 HKICIM GROUP          18,000        32,640
+    688 CHINA OVERSEAS     5,368,000   132,438,600
+    694 BEIJING AIRPORT    1,156,000    10,974,280
+    696 TRAVELSKY TECH       944,000    19,212,650
+    697 SHOUGANG INT'L         2,000           384
+    698 TONGDA GROUP       1,450,000     1,665,700
+    699 CAR INC              291,000     1,827,070
+    700 TENCENT            3,049,200   984,521,620
+    708 EVERG HEALTH         400,000     3,687,950
+    710 BOE VARITRONIX        10,000        25,200
+    715 CHINA OCEANWIDE       42,000        15,740
+    716 SINGAMAS CONT        704,000       836,560
+    717 EMPEROR CAPITAL       12,000         4,800
+    728 CHINA TELECOM     11,010,000    42,513,540
+    729 FDG EVEHICLES        295,000        28,520
+    732 TRULY INT'L          162,000       211,160
+    735 CP CLEAN ENERGY       25,500        72,480
+    743 ASIA CEMENT CH       150,000     1,207,210
+    751 SKYWORTHDIGITAL    3,108,000     6,855,280
+    753 AIR CHINA          1,302,000     9,880,280
+    755 SHANGHAI ZENDAI       35,000         4,795
+    762 CHINA UNICOM         454,000     4,183,240
+    763 ZTE                  161,400     2,314,940
+    772 CHINA LIT            191,800     9,518,920
+    777 NETDRAGON             20,500       337,230
+    778 FORTUNE REIT          50,000       464,220
+    787 GLOBAL BRANDS      1,252,000       514,270
+    788 CHINA TOWER       28,392,000    33,140,980
+    798 CEOVU                 48,000        23,760
+    799 IGG                   47,000       457,770
+    806 VALUE PARTNERS       391,000     2,443,590
+    808 PROSPERITY REIT        7,000        21,350
+    813 SHIMAO PROPERTY    3,221,000    62,593,675
+    815 CHI SILVER GP        144,000       157,520
+    816 HUADIAN FUXIN         62,000        97,440
+    817 CHINA JINMAO       3,060,000    10,946,620
+    818 HI SUN TECH          171,000       185,370
+    819 TIANNENG POWER       458,000     3,177,620
+    823 LINK REIT            915,500    70,411,650
+    826 TIANGONG INT'L       204,000       356,760
+    832 CENTRAL CHINA         65,000       204,440
+    836 CHINA RES POWER      530,000     7,327,440
+    839 CHINA EDU GROUP      133,000     1,461,920
+    853 MICROPORT            351,000     3,591,760
+    855 CHINA WATER          398,000     3,482,820
+    856 VSTECS                22,000        90,420
+    857 PETROCHINA        38,140,000   241,949,220
+    860 WE SOLUTIONS         412,000       421,360
+    861 DC HOLDINGS            1,000         4,180
+    867 CMS                  390,000     4,251,560
+    868 XINYI GLASS          376,000     3,739,580
+    874 BAIYUNSHAN PH         22,000       617,800
+    877 O-NET TECH GP         49,000       205,930
+    880 SJM HOLDINGS       7,468,000    54,006,120
+    881 ZHONGSHENG HLDG    1,291,000    24,507,250
+    882 TIANJIN DEV            2,000         5,680
+    883 CNOOC             25,592,000   395,095,300
+    884 CIFI HOLD GP       5,744,000    20,684,680
+    895 DONGJIANG ENV          5,000        46,056
+    902 HUANENG POWER      3,224,000    16,554,900
+    906 COFCO PACKAGING      373,000     1,100,530
+    914 CONCH CEMENT       5,536,000   261,981,975
+    916 CHINA LONGYUAN     2,502,000    16,402,630
+    921 HISENSE KELON         78,000       547,700
+    928 LIFE HEALTHCARE       40,000         8,840
+    931 CHINA LNG            154,000       178,640
+    934 SINOPEC KANTONS      216,000       755,860
+    939 CCB               68,339,000   466,271,310
+    941 CHINA MOBILE       5,138,000   393,861,500
+    950 LEE'S PHARM           22,000       146,495
+    951 CHAOWEI POWER        208,000       727,100
+    956 CHINA SUNTIEN        651,000     1,421,160
+    958 HN RENEWABLES      2,922,000     6,909,920
+    960 LONGFOR GROUP        127,500     2,584,700
+    966 CHINA TAIPING        618,800    17,012,590
+    968 XINYI SOLAR        2,052,000     4,953,600
+    973 L'OCCITANE            48,000       670,815
+    976 CHIHO ENV             28,000        82,920
+    981 SMIC               4,018,500    33,904,685
+    989 GROUND INTL DEV      405,000       343,200
+    991 DATANG POWER         400,000       791,980
+    992 LENOVO GROUP      13,372,000    75,920,380
+    995 ANHUIEXPRESSWAY        2,000         9,520
+    996 CARNIVAL GROUP       940,000       207,970
+    998 CITIC BANK         1,443,000     7,239,890
+    999 I.T                    6,000        25,500
+   1003 HUANXI MEDIA         100,000       166,300
+   1028 C.BANNER               4,000         2,160
+   1030 FUTURE LAND        7,620,000    38,577,200
+   1031 KINGSTON FIN          30,000        63,620
+   1033 SINOPEC SSC          148,000       157,420
+   1038 CKI HOLDINGS         224,000    13,886,375
+   1044 HENGAN INT'L         621,000    44,692,050
+</font></pre><pre><font size='1'>   1051 G-RESOURCES           12,000           804
+   1052 YUEXIUTRANSPORT      476,000     2,953,280
+   1055 CHINA SOUTH AIR      728,000     3,657,780
+   1060 ALI PICTURES       4,310,000     4,620,000
+   1061 ESSEX BIO-TECH        21,000       128,570
+   1065 TIANJIN CAPITAL       16,000        49,760
+   1066 WEIGAO GROUP         540,000     4,175,040
+   1070 TCL ELECTRONICS      123,000       455,320
+   1071 HUADIAN POWER        702,000     2,141,280
+   1072 DONGFANG ELEC         63,400       293,522
+   1083 TOWNGAS CHINA        331,000     2,269,910
+   1086 GOODBABY INTL        826,000     2,590,910
+   1088 CHINA SHENHUA      2,460,500    44,367,240
+   1089 LEYOU TECH H       1,220,000     3,227,300
+   1093 CSPC PHARMA        5,110,000    85,277,720
+   1098 ROAD KING INFRA       53,000       707,320
+   1099 SINOPHARM            551,200    21,031,160
+   1106 SINO HAIJING         820,000       217,300
+   1109 CHINA RES LAND     3,160,000    87,303,800
+   1112 H&amp;H INTL HLDG         44,000     2,070,325
+   1113 CK ASSET           1,009,500    59,354,200
+   1114 BRILLIANCE CHI     3,474,000    43,802,200
+   1115 TIBET WATER           87,000       217,670
+   1117 CH MODERN D          262,000       284,100
+   1128 WYNN MACAU         3,308,800    60,005,504
+   1129 WATER INDUSTRY        92,000       123,480
+   1131 AGRITRADE RES        585,000     1,002,550
+   1133 HARBIN ELECTRIC      128,000       313,880
+   1137 HKTV                 138,000       339,480
+   1138 COSCO SHIP ENGY      526,000     2,032,900
+   1140 OP FINANCIAL         104,000       282,840
+   1141 CMBC CAPITAL         100,000        39,150
+   1157 ZOOMLION             110,000       334,246
+   1168 SINOLINK HOLD         62,000        42,940
+   1169 HAIER ELEC           470,000     9,967,600
+   1171 YANZHOU COAL         294,000     2,684,400
+   1176 ZHUGUANG HOLD        678,000     1,016,420
+   1177 SINO BIOPHARM      7,213,000    52,798,450
+   1186 CHINA RAIL CONS    9,975,000   104,619,830
+   1193 CHINA RES GAS      3,588,000   114,846,700
+   1196 REALORD GROUP        110,000       473,480
+   1199 COSCO SHIP PORT    5,634,000    48,171,180
+   1208 MMG                2,864,000    11,325,920
+   1211 BYD COMPANY          668,500    37,341,700
+   1212 LIFESTYLE INT'L       67,000     1,032,530
+   1224 C C LAND              55,000       106,620
+   1230 YASHILI INT'L          9,000        13,340
+   1233 TIMES CHINA          166,000     1,377,180
+   1234 CHINA LILANG           2,000        14,710
+   1238 POWERLONG            358,000     1,209,240
+   1250 BE CLEAN ENERGY       40,000         5,800
+   1257 CEB GREENTECH        114,000       761,390
+   1282 CHINA GOLDJOY        332,000       148,160
+   1288 ABC               21,240,000    82,052,450
+   1293 GRAND BAOXIN       2,026,000     4,796,790
+   1297 SINOSOFT TECH         59,000       139,040
+   1299 AIA                8,250,400   576,028,550
+   1300 TRIGIANT              18,000        19,440
+   1302 LIFETECH SCI         172,000       333,040
+   1308 SITC                  24,000       152,800
+   1310 HKBN                  47,500       639,000
+   1313 CHINARES CEMENT    2,332,000    21,246,960
+   1316 NEXTEER              359,000     4,447,760
+   1317 MAPLELEAF EDU      2,152,000     8,680,640
+   1330 DYNAGREEN ENV         42,000       130,670
+   1333 CHINA ZHONGWANG      443,200     1,691,968
+   1336 NCI                1,837,100    70,267,235
+   1337 RAZER                839,000     1,517,680
+   1339 PICC GROUP         2,421,000     8,571,270
+   1347 HUA HONG SEMI        892,000    14,877,260
+   1359 CHINA CINDA        3,386,000     6,712,160
+   1361 361 DEGREES           62,000       122,790
+   1363 CTEG               1,830,000     1,649,460
+   1368 XTEP INT'L           671,500     3,003,235
+   1375 CC SECURITIES        154,000       307,090
+   1378 CHINAHONGQIAO        835,500     4,291,015
+   1381 CANVEST ENV           90,000       365,320
+   1382 PACIFICTEXTILES       82,000       559,370
+   1383 SUNCITY GROUP        150,000       196,600
+   1387 RENHE COMM         6,226,000     1,566,202
+   1398 ICBC              38,732,000   222,127,290
+   1448 FU SHOU YUAN         363,000     2,220,900
+   1458 ZHOU HEI YA          323,000     1,537,465
+   1462 GOLD-FIN HLDG         28,000        50,520
+   1478 Q TECH               281,000     1,424,370
+   1508 CHINA RE           1,160,000     1,788,480
+   1513 LIVZON PHARMA         69,800     1,889,180
+   1515 CRPHOENIXHEALTH      342,000     2,413,850
+   1528 RS MACALLINE          61,800       462,020
+   1530 3SBIO              1,534,000    20,504,340
+   1548 GENSCRIPT BIO     10,758,000   137,364,040
+   1558 HEC PHARM            129,000     4,133,030
+   1569 MINSHENG EDU           4,000         6,640
+   1571 XIN POINT HOLD         3,000         9,110
+   1573 CH UNIENERGY         120,000     1,740,080
+   1579 YIHAI INTL         4,460,000    77,556,600
+   1585 YADEA                196,000       523,740
+   1599 UCD                    4,000        13,170
+   1608 VPOWER GROUP          32,000        95,500
+   1610 COFCO MEAT             9,000        10,180
+   1618 MCC                  406,000       894,940
+   1622 REDCO GROUP          446,000     1,788,360
+   1628 YUZHOU PPT         3,446,000    11,198,240
+   1638 KAISA GROUP        3,158,000     7,996,660
+   1658 PSBC               8,611,000    42,490,410
+   1666 TONG REN TANG         53,000       607,560
+   1668 CHINASOUTHCITY     1,066,000     1,359,120
+   1680 MACAU LEGEND         207,000       293,320
+   1681 CONSUN PHARMA         67,000       421,820
+   1686 SUNEVISION           127,000       674,370
+   1696 SISRAM MED               800         4,308
+   1700 SPRINGLAND            12,000        20,400
+   1717 AUSNUTRIA            168,000     1,421,470
+   1727 HEBEI CONS             5,500        23,095
+   1728 ZHENGTONGAUTO      2,208,500    11,323,240
+   1766 CRRC               1,562,000    11,127,660
+   1776 GF SEC               480,000     4,844,748
+   1777 FANTASIA             135,000       130,950
+   1778 COLOUR LIFE          236,000     1,072,560
+   1788 GUOTAI JUNAN I     1,481,000     2,048,690
+   1789 AK MEDICAL           156,000       834,820
+   1798 DATANG RENEW          86,000        97,080
+   1800 CHINA COMM CONS      865,000     6,937,980
+   1803 BJ SPORTS &amp; ENT      100,000       252,175
+   1810 XIAOMI-W           8,514,200   132,401,328
+   1812 CHENMING PAPER        95,500       457,915
+   1813 KWG GROUP          3,529,500    25,234,280
+   1816 CGN POWER          2,092,000     3,901,330
+   1818 ZHAOJIN MINING     1,012,000     6,086,615
+   1829 CMEC                  48,000       183,900
+   1836 STELLA HOLDINGS       24,500       171,850
+   1862 JINGRUI HLDGS      1,094,000     2,620,970
+   1882 HAITIAN INT'L        162,000     2,824,100
+   1883 CITIC TELECOM         61,000       160,900
+   1888 KB LAMINATES         218,500     1,507,500
+   1898 CHINA COAL           337,000     1,111,210
+   1899 XINGDA INT'L          58,000       130,720
+   1908 C&amp;D INTL GROUP       365,000     2,422,260
+   1910 SAMSONITE          1,251,300    36,346,920
+   1913 PRADA                 27,900     1,051,140
+   1918 SUNAC              9,023,000   221,724,450
+   1919 COSCO SHIP HOLD    1,142,500     3,722,960
+   1928 SANDS CHINA LTD    3,388,000   120,987,840
+   1929 CHOW TAI FOOK      1,880,200    15,140,182
+   1958 BAIC MOTOR         1,538,500     9,639,760
+   1963 BCQ                   64,000       300,215
+   1966 CHINA SCE GROUP      448,000     1,351,560
+   1970 IMAX CHINA           101,000     2,007,899
+   1972 SWIREPROPERTIES       61,400     1,821,820
+   1980 TIANGE               293,000     1,431,130
+   1986 TSAKER CHEM           18,000        96,610
+   1988 MINSHENG BANK      2,199,000    12,797,585
+   1997 WHARF REIC           162,000     8,269,850
+   1999 MAN WAH HLDGS        306,400     1,441,560
+   2001 NEW HIGHER EDU     1,077,000     5,804,170
+   2005 SSY GROUP            502,000     3,808,140
+   2006 JINJIANG HOTELS        2,000         4,420
+   2007 COUNTRY GARDEN    31,728,000   316,239,970
+   2008 PHOENIX TV             2,000         1,360
+   2009 BBMG               2,371,000     6,380,760
+   2014 OZNER WATER            1,000         1,830
+   2018 AAC TECH           1,228,500    99,685,600
+   2020 ANTA SPORTS        1,462,000    54,772,150
+   2038 FIH                3,446,000     3,110,610
+   2039 CIMC                 434,000     3,620,609
+   2111 BEST PACIFIC           8,000        20,780
+   2128 CHINA LESSO          422,000     1,869,450
+   2136 LIFESTYLE CHI         96,500       306,150
+   2186 LUYE PHARMA        2,129,500    14,763,830
+   2196 FOSUN PHARMA         365,000    11,233,750
+   2198 CHINA SANJIANG        13,000        27,440
+   2199 REGINA MIRACLE        17,000        90,070
+   2202 CHINA VANKE        2,226,200    57,678,085
+   2208 GOLDWIND             263,800     2,243,904
+   2232 CRYSTAL INTL           2,500        12,760
+   2233 WESTCHINACEMENT    1,134,000     1,646,080
+   2236 WISON ENGRG           21,000        21,700
+   2238 GAC GROUP          5,532,000    47,281,380
+   2255 HAICHANG HLDG          7,000        11,830
+   2268 YOUYUAN HLDGS         86,000       224,800
+   2269 WUXI BIO           1,150,000    90,703,400
+   2280 HC GROUP              87,000       476,950
+   2282 MGM CHINA          1,852,400    23,139,064
+   2283 TK GROUP HLDG          2,000         9,720
+   2298 COSMO LADY             4,000        13,890
+   2313 SHENZHOU INTL        508,000    50,832,750
+   2314 LEE &amp; MAN PAPER    1,430,000    10,287,580
+   2318 PING AN           11,242,500   896,324,050
+   2319 MENGNIU DAIRY      6,636,000   171,449,000
+   2328 PICC P&amp;C           5,654,000    52,189,920
+   2329 GUORUI PPT           843,000     1,713,780
+   2331 LI NING            1,219,500     9,011,645
+   2333 GREATWALL MOTOR    7,959,500    40,151,635
+   2338 WEICHAI POWER      1,678,000    16,331,070
+   2342 COMBA                280,000       347,200
+   2343 PACIFIC BASIN        885,000     1,649,830
+   2348 DAWNRAYS PHARMA       33,000        60,510
+   2356 DAHSING BANKING       18,000       282,568
+   2357 AVICHINA           1,684,000     8,689,400
+   2362 JINCHUAN INTL         25,000        26,520
+   2380 CHINA POWER        1,553,000     2,678,720
+   2382 SUNNY OPTICAL        971,400    87,898,940
+   2386 SINOPEC SEG          679,500     6,067,055
+   2388 BOC HONG KONG        983,000    36,528,575
+   2389 BJ ENT M&amp;H            66,000        24,090
+   2588 BOC AVIATION         179,800    10,877,630
+   2600 CHALCO             3,088,000    10,642,580
+   2601 CPIC                 138,400     4,195,300
+   2607 SH PHARMA            686,400    13,404,008
+   2608 SUNSHINE 100          40,000       124,780
+   2611 GTJA                  80,000     1,284,632
+   2628 CHINA LIFE         1,826,000    32,569,700
+   2638 HKELECTRIC-SS      1,026,500     8,078,340
+   2662 CAMSING INTL          50,000       327,240
+   2666 UNI MEDICAL          476,000     2,847,650
+   2669 CHINA OVS PPT        465,000     1,046,850
+   2678 TEXHONG TEXTILE       11,500       135,540
+   2688 ENN ENERGY         1,981,400   134,492,635
+   2689 ND PAPER           2,259,000    19,184,450
+   2698 WEIQIAO TEXTILE       12,500        34,965
+   2727 SH ELECTRIC        1,152,000     3,197,760
+   2768 JIAYUAN INTL       2,302,000    30,582,840
+   2777 R&amp;F PROPERTIES     2,491,200    35,683,456
+   2778 CHAMPION REIT        289,000     1,583,730
+   2779 CH XINHUA EDU         23,000        57,420
+   2799 CHINA HUARONG      7,270,000    10,595,410
+   2800 TRACKER FUND      11,644,000   334,383,925
+   2822 CSOP A50 ETF      22,212,400   297,202,796
+   2823 ISHARES A50       19,524,900   255,391,948
+   2828 HSCEI ETF          2,235,600   249,595,000
+   2858 YIXIN                201,000       518,850
+   2866 COSCO SHIP DEV     3,036,000     3,188,410
+   2868 BJ CAPITAL LAND       80,000       228,600
+   2869 GREENTOWN SER      1,202,000     7,599,480
+   2877 SHINEWAY PHARM        37,000       395,000
+   2883 CHINA OILFIELD     2,760,000    23,330,460
+   2888 STANCHART             16,400     1,073,397
+   2899 ZIJIN MINING       2,812,000     8,353,780
+   3118 HGI MSCI CN A          1,000        13,320
+   3188 CAM CSI300         3,848,200   153,555,970
+   3301 RONSHINECHINA        547,500     4,973,945
+   3306 JNBY                 107,000     1,470,130
+   3308 GOLDEN EAGLE           7,000        59,750
+   3309 C-MER EYE            240,000     1,055,720
+   3311 CHINA STATE CON    1,152,000     9,503,360
+   3319 A-LIVING              98,500     1,192,875
+   3320 CHINARES PHARMA      175,000     2,179,840
+   3323 CNBM               6,086,000    42,161,020
+   3328 BANKCOMM           5,063,000    29,732,240
+   3331 VINDA INT'L            8,000       107,000
+   3333 EVERGRANDE        17,193,000   383,687,550
+   3337 ANTON OILFIELD       126,000       164,420
+   3339 LONKING              194,000       491,150
+   3358 BESTWAY GLOBAL         2,000         6,980
+   3360 FE HORIZON           422,000     3,142,370
+   3377 SINO-OCEAN GP      1,487,000     5,110,865
+   3380 LOGAN PPT            540,000     4,760,480
+   3383 AGILE GROUP        2,382,000    26,360,960
+   3393 WASION HOLDINGS       36,000       145,460
+   3396 LEGENDHOLDING         80,600     1,934,640
+   3606 FUYAO GLASS          128,800     3,669,620
+   3613 TONGRENTANGCM          5,000        78,900
+   3618 CQRC BANK            677,000     2,915,530
+   3633 ZHONGYU GAS           74,000       529,120
+   3669 YONGDA AUTO          342,500     2,423,360
+   3690 MEITUAN-W          7,559,500   505,978,690
+   3799 DALI FOODS         1,459,000     8,183,770
+   3800 GCL-POLY ENERGY    4,587,000     2,528,730
+   3808 SINOTRUK             265,500     4,576,000
+   3818 CHINA DONGXIANG    1,385,000     1,814,190
+   3836 HARMONY AUTO         197,000       638,590
+   3883 CHINA AOYUAN       2,902,000    15,381,990
+   3888 KINGSOFT           2,599,000    39,162,000
+   3898 CRRC TIMES ELEC      129,800     5,824,325
+   3899 CIMC ENRIC            80,000       652,240
+   3900 GREENTOWN CHINA      615,500     4,512,910
+   3908 CICC                 943,200    13,602,360
+   3918 NAGACORP             236,000     1,946,140
+   3933 UNITED LAB           222,000     1,520,980
+   3958 DFZQ                 259,200     1,300,836
+   3968 CM BANK            2,569,500    82,170,850
+   3969 CHINA CRSC           426,000     2,385,780
+   3983 CHINA BLUECHEM       302,000       956,360
+   3988 BANK OF CHINA     52,208,000   182,284,230
+   3993 CMOC               1,425,000     4,618,200
+   3996 CH ENERGY ENG         12,000        11,280
+   3998 BOSIDENG               4,000         4,400
+   6030 CITIC SEC          2,345,500    32,546,320
+   6060 ZA ONLINE            347,300    11,229,085
+   6066 CSC                  257,000     1,151,190
+   6068 WISDOM EDU INTL       70,000       292,360
+   6088 FIT HON TENG         231,000       894,980
+   6098 CG SERVICES          846,000    11,587,080
+   6099 CMSC                 158,000     1,495,880
+   6116 LA CHAPELLE            6,400        44,254
+   6139 JINMAO HOTEL-SS        1,000         4,650
+   6158 ZHENRO PPT            45,000       191,630
+   6169 YUHUA EDU            452,000     1,711,980
+   6178 EB SECURITIES         22,600       159,680
+   6198 QINGDAO PORT          39,000       212,650
+   6808 SUNART RETAIL      1,556,500    15,835,380
+</font></pre><pre><font size='1'>   6818 CEB BANK             199,000       699,230
+   6823 HKT-SS               249,000     2,676,940
+   6826 HAOHAI BIOTEC            700        36,910
+   6828 BG BLUE SKY          232,000       127,600
+   6837 HAITONG SEC        1,492,800    10,679,392
+   6858 HONMAGOLF            137,000     1,001,325
+   6869 YOFC                 706,500    17,234,675
+   6881 CGS                2,607,000     9,528,625
+   6886 HTSC                 752,200     8,453,428
+   6889 DYNAM JAPAN            9,600        92,574
+   7200 FL2 CSOP HSI       1,202,100    12,189,420
+   7228 FL2SAMSUNGHSCEI      497,000     3,606,950
+   7288 FL2 CSOP HSCEI     1,898,100    16,363,156
+   7300 FI CSOP HSI       10,924,700    60,967,350
+   7321 FICAMDXNHSI            1,000         6,200
+   7328 FISAMSUNGHSCEI         3,000        14,700
+   7336 FI MR HSI             10,000        58,200
+   7388 FI CSOP HSCEI      1,287,600     7,582,237
+ % 9101 VANGUARDDVEUR-U          500         1,240
+ %82822 CSOP A50 ETF-R       729,800     8,575,544
+ %82823 ISHARES A50-R        310,200     3,573,272
+ %83053 CSOP HKD MM-R          1,000       882,000
+ %83188 CAM CSI300-R         107,400     3,775,230
+
+   Total Shares (SH):  1,056,451,000
+   Total Value ($)  :
+     CNY Stocks -               CNY     16,806,046
+     HKD Stocks -               HKD 14,304,424,151
+     USD Stocks -               USD          1,240
+
+Total No. of Securities recording Short Selling                  :                  580
+Total No. of Designated Securities recording Short Selling       :                  580
+                Short Selling Turnover Total Shares (SH)         :        1,056,451,000
+                Short Selling Turnover Total Value ($)           :  CNY      16,806,046
+                Short Selling Turnover Total Value ($)           :  HKD  14,304,424,151
+                Short Selling Turnover Total Value ($)           :  USD           1,240
+
+*Total No. of non-Designated Securities recording Short Selling  :                    0
+                Short Selling Turnover Total Shares (SH)         :                    0
+                Short Selling Turnover Total Value ($)           :  HKD               0
+
+*Short selling of non-Designated Securities is allowable only by respective
+liquidity providers and hedging participants for their respective liquidity
+provision and hedging purpose.
+% Stocks Traded in Non HKD Currency
+
+Note: Taking into account adjustments reported, if any, up to the first 15 minutes of the
+      commencement of the Continuous Trading Session on the next
+      trading day.
+
+-------------------------------------------------------------------------------

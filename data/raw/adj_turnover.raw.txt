@@ -1,0 +1,13 @@
+                                  <a name = "adj_turnover">ADJUSTED TURNOVER</a>
+
+Adjusted Turnover (Main Board And Trading Only Stocks) taking into account dealings in
+securities suspended due to insufficient public float and amendment record for trades for
+28/09/2018:
+
+Market Total : HK$     84,401,094,990
+
+Note: Taking into account adjustments reported, if any, up to the first 15 minutes of the
+      commencement of the Continuous Trading Session on the next
+      trading day.
+
+-------------------------------------------------------------------------------

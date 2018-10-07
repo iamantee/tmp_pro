@@ -1,0 +1,53 @@
+                                  <a name = "market_highlights">MARKET HIGHLIGHTS</a>
+
+                                             Today
+                                             Day       Prev    Change %change
+                                             Close
+                   S&amp;P/HKEX 
+Sec. Traded: 6934  LARGECAP INDEX            35243.16 36129.08   -885.92  -2.452
+Advanced   : 2586
+Declined   : 6343
+Unchanged  : 2544
+Today's Turnover:
+(HK$):     90,980,950,973
+(Shares): 232,737,844,011
+(Deals):        1,594,592
+Renminbi Products Turnover (CNY):          39,859,786
+-------------------------------------------------------------------------------
+                                           Today
+                                    Morning  Afternoon Prev    Change %change
+                                    Closing  Closing
+                  HANG SENG INDEX   27333.71 27126.38 27788.52   -662.14  -2.383
+                  HANG SENG CHINA    
+                  ENTERPRISES INDEX 10827.70 10754.56 11017.87   -263.31  -2.390
+                  HANG SENG CHINA-   
+                  AFF. CORP. INDEX   4380.61  4352.10  4448.84    -96.74  -2.174
+-------------------------------------------------------------------------------
+10 MOST ACTIVES (DOLLARS)
+CODE  NAME OF STOCK   CUR        TURNOVER ($)      SHARES TRADED    HIGH      LOW
+
+  700 TENCENT         HKD       6,909,856,384         21,722,687  325.00   315.00 
+ 2318 PING AN         HKD       4,601,920,186         59,123,033   80.25    76.70 
+ 1299 AIA             HKD       2,691,250,696         39,446,639   69.50    67.15 
+  939 CCB             HKD       2,427,530,907        363,985,598    6.86     6.60 
+  883 CNOOC           HKD       2,128,114,234        135,935,573   15.78    15.42 
+    5 HSBC HOLDINGS   HKD       1,691,780,979         24,924,108   68.50    67.65 
+ 1398 ICBC            HKD       1,656,999,329        298,649,817    5.70     5.50 
+   27 GALAXY ENT      HKD       1,395,561,342         29,031,313   49.80    47.20 
+  941 CHINA MOBILE    HKD       1,220,392,121         16,101,633   76.40    74.90 
+  857 PETROCHINA      HKD       1,159,043,420        181,124,060    6.52     6.28 
+-------------------------------------------------------------------------------
+10 MOST ACTIVES (SHARES)
+CODE  NAME OF STOCK   CUR     SHARES TRADED         TURNOVER ($)    HIGH      LOW
+
+28100 CSTENCT@EC1901M HKD    10,159,050,000          638,257,670    0.069    0.054
+26880 UBTENCT@EC1901C HKD     8,000,690,000          506,109,850    0.075    0.056
+26499 SGTENCT@EC1901E HKD     6,904,840,000          616,203,730    0.104    0.081
+24172 HTTENCT@EC1901A HKD     6,577,390,000          464,432,010    0.074    0.064
+66994 JP#HSI  RC2012Q HKD     6,406,630,000          311,514,370    0.064    0.021
+25909 JPTENCT@EC1902A HKD     6,031,660,000          559,946,960    0.107    0.083
+27995 BITENCT@EC1901G HKD     5,506,520,000          402,129,640    0.08     0.067
+23222 JP-HSI @EC1901F HKD     4,853,150,000          306,692,010    0.079    0.053
+67929 SG#HSI  RC2009Q HKD     4,323,240,000          167,094,270    0.048    0.01 
+60148 JP#HSI  RP1904Y HKD     4,063,630,000          223,892,930    0.085    0.034
+-------------------------------------------------------------------------------

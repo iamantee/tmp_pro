@@ -1,0 +1,37 @@
+                                <a name = "other_info">OTHER INFORMATION</a>
+
+1. STOCKS EX-ENTITLEMENT TODAY
+
+CODE  NAME OF STOCK    EX-ENTITLEMENT ITEM
+ 1203 GUANGNAN (HOLD)  Int. div. $0.01
+ 2805 VANGUARDASXJP    September quarter div. $0.23
+ 3085 VANGUARDAXJHY    September quarter div. $0.43
+ 3086 BMO NASDAQ100    Div. $0.03
+ 3101 VANGUARDDVEUR    September quarter div. $0.07
+ 3121 BMO AP REAL EST  Div. $0.18
+ 3126 VANGUARDJAPAN    September quarter div. $0.01
+ 3140 VANGUARDSP500    September quarter div. $0.06
+ 3141 BMO ASIA IGBOND  Div. $0.15
+ 3143 BMO HK BANKS     Div. $0.3
+ 3145 BMO ASIA HIGHDV  Div. $0.19
+ 3160 BMO JAPAN HDG    Div. $0.09
+ 3165 BMO EU QLTY HDG  Div. $0.18
+ 3169 VANGUARDCHINA    September quarter div. RMB0.12
+ 9085 VANGUARDAXJHY-U  September quarter div. HK$0.43
+ 9101 VANGUARDDVEUR-U  September quarter div. HK$0.07
+ 9126 VANGUARDJAPAN-U  September quarter div. HK$0.01
+ 9140 VANGUARDSP500-U  September quarter div. HK$0.06
+ 9169 VANGUARDCHINA-U  September quarter div. RMB0.12
+ 9805 VANGUARDASXJP-U  September quarter div. HK$0.23
+82805 VANGUARDASXJP-R  September quarter div. HK$0.23
+83085 VANGUARDAXJHY-R  September quarter div. HK$0.43
+83101 VANGUARDDVEUR-R  September quarter div. HK$0.07
+83126 VANGUARDJAPAN-R  September quarter div. HK$0.01
+83140 VANGUARDSP500-R  September quarter div. HK$0.06
+83169 VANGUARDCHINA-R  September quarter div. RMB0.12
+
+2. INDEX AMENDMENT
+
+-
+
+</font></pre></body></html>
