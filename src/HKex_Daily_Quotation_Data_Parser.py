@@ -84,13 +84,45 @@ class HKex_Daily_Quotation_Data_Parser(object):
         except IOError:
             raise
         
-    def extract_section_data(self, category):
+    def extract_quotation_data(self):
         try:
-            suspendedSecurityInfoPattern = Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'SuspendedSecurityInfoPattern')
-            normalSecurityFirstLinePattern = Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'NormalSecurityFirstLinePattern')
-            normalSecuritySecondLinePattern = Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'NormalSecuritySecondLinePattern')
+            security_data_set = []
+            security_data = []
+            is_continue_for_same_sec = False
+            data_file_path = os.path.join(self._data_file_base_path, 'raw', 'quotation.txt')
+            suspended_security_info_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'SuspendedSecurityInfoPattern'))
+            normal_security_first_line_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'NormalSecurityFirstLinePattern'))
+            normal_security_second_line_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'NormalSecuritySecondLinePattern'))
 
-        except IOError:
+            if os.path.exists(data_file_path):
+                with open(data_file_path, 'r') as data_file:
+                    for line in data_file:
+                        normal_security_first_line_pattern_matching = re.search(line)
+                        if normal_security_first_line_pattern_matching:
+                           is_continue_for_same_sec = True
+                           security_data = [None] * 13 
+                           security_data[0:normal_security_first_line_pattern.groups] = [normal_security_first_line_pattern_matching.group(i) for i in range(2, normal_security_first_line_pattern.groups+1)]
+                           security_data[-2] = '*' == normal_security_first_line_pattern_matching.group(1) ? 'Y' : 'N'
+                        elif is_continue_for_same_sec:
+                            is_continue_for_same_sec = False
+                            normal_security_second_line_pattern_matching = re.search(line)
+                            security_data[normal_security_first_line_pattern.groups:-2] = [normal_security_second_line_pattern_matching.group(i) for i in range(1, normal_security_second_line_pattern.groups+1)]
+                            security_data_set.append(security_data)
+                            security_data = []
+                        else:
+                            suspended_security_info_pattern_matching = re.search(line)
+                            if suspended_security_info_pattern_matching:
+
+
+
+                        else:
+                            pass
+
+            else:
+                raise Exception(''.join(['No such file: ', data_file_path]))
+
+
+        except:
             raise
 
 if __name__ == '__main__':
