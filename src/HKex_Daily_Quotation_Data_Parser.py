@@ -86,40 +86,56 @@ class HKex_Daily_Quotation_Data_Parser(object):
         
     def extract_quotation_data(self):
         try:
+            category = 'quotations'
             security_data_set = []
             security_data = []
             is_continue_for_same_sec = False
-            data_file_path = os.path.join(self._data_file_base_path, 'raw', 'quotation.txt')
+            data_file_path = os.path.join(self._data_file_base_path, 'raw', 'quotations.raw.txt')
             suspended_security_info_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'SuspendedSecurityInfoPattern'))
             normal_security_first_line_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'NormalSecurityFirstLinePattern'))
             normal_security_second_line_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'NormalSecuritySecondLinePattern'))
-
+            data_section_end_pattern = re.compile(Configuration.get_option('.'.join([self.__class__._CONFIG_SECTION, category]), 'DataSectionEndPattern'))
+            
             if os.path.exists(data_file_path):
                 with open(data_file_path, 'r') as data_file:
                     for line in data_file:
-                        normal_security_first_line_pattern_matching = re.search(line)
+                        if data_section_end_pattern.search(line):
+                            break
+
+                        normal_security_first_line_pattern_matching = normal_security_first_line_pattern.search(line)
                         if normal_security_first_line_pattern_matching:
                            is_continue_for_same_sec = True
-                           security_data = [None] * 13 
-                           security_data[0:normal_security_first_line_pattern.groups] = [normal_security_first_line_pattern_matching.group(i) for i in range(2, normal_security_first_line_pattern.groups+1)]
-                           security_data[-2] = '*' == normal_security_first_line_pattern_matching.group(1) ? 'Y' : 'N'
+                           security_data = [''] * 15 
+                           security_data[0:normal_security_first_line_pattern.groups-1] = [normal_security_first_line_pattern_matching.group(i) for i in range(2, normal_security_first_line_pattern.groups+1)]
+                           security_data[-2] = 'Y' if '*' == normal_security_first_line_pattern_matching.group(1) else 'N'
                         elif is_continue_for_same_sec:
                             is_continue_for_same_sec = False
-                            normal_security_second_line_pattern_matching = re.search(line)
-                            security_data[normal_security_first_line_pattern.groups:-2] = [normal_security_second_line_pattern_matching.group(i) for i in range(1, normal_security_second_line_pattern.groups+1)]
+                            normal_security_second_line_pattern_matching = normal_security_second_line_pattern.search(line)
+                            security_data[normal_security_first_line_pattern.groups-1:-2] = [normal_security_second_line_pattern_matching.group(i) for i in range(1, normal_security_second_line_pattern.groups+1)]
+                            security_data[-1] = 'N'
+                            
                             security_data_set.append(security_data)
                             security_data = []
                         else:
-                            suspended_security_info_pattern_matching = re.search(line)
+                            suspended_security_info_pattern_matching = suspended_security_info_pattern.search(line)
                             if suspended_security_info_pattern_matching:
+                                is_continue_for_same_sec = False
+                                security_data = [''] * 15 
+                                security_data[0:suspended_security_info_pattern.groups] =[suspended_security_info_pattern_matching.group(i) for i in range(1, suspended_security_info_pattern.groups+1)]
+                                security_data[-1] = 'Y'
 
-
-
-                        else:
-                            pass
+                                security_data_set.append(security_data)
+                                security_data = []
 
             else:
                 raise Exception(''.join(['No such file: ', data_file_path]))
+
+            dest_data_file_path = os.path.join(self._data_file_base_path, 'dataset', 'quotations.csv')
+            if not os.path.exists(os.path.dirname(dest_data_file_path)):
+                os.makedirs(os.path.dirname(dest_data_file_path))
+
+            with open(dest_data_file_path, 'w+') as dest_data_file:
+                dest_data_file.writelines([','.join('"{0}"'.format(d.strip() if '-' != d else '') for d in sec_data) + os.linesep for sec_data in security_data_set])
 
 
         except:
@@ -132,3 +148,5 @@ if __name__ == '__main__':
     print parser._data_file_struct_info
     
     parser.extract_section_raw_content()
+
+    parser.extract_quotation_data()
